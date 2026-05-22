@@ -1,0 +1,97 @@
+h1 {
+  color: lightgoldenrodyellow;
+  text-align: center;
+  font-size: 100px;
+}
+
+.highlight {
+  background-color: #E0FFFF;
+  color: violet;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.hello{
+  text-align: center;
+}
+
+.meow{
+  font-size: 60px;
+  color: #EE82EE;
+  text-align: left;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.ayo{
+  font-size: 25px;
+  color: #EE82EE;
+  text-align: left;
+}
+
+.hey{
+  font-size: 25px;
+  color: #EE82EE;
+  text-align: left;
+}
+
+.ruff{
+  font-size: 50px;
+  color: #E6E6FA;
+}
+.ooo{
+  font-size: 25px;
+  color: #EE82EE;
+  text-align: left;
+}
+.arg{
+  font-size: 25px;
+  color: #EE82EE;
+  text-align: left;
+}
+.reet{
+  font-size: 25px;
+  color: #EE82EE;
+  text-align: left;
+}
+.meep{
+  font-size: 25px;
+  color: #EE82EE;
+  text-align: left;
+}
+.heh{
+  font-size: 25px;
+  color: #EE82EE;
+  text-align: left;
+}
+    .layout {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+
+  justify-content: space-between;
+}
+
+.ARRR { 
+  padding-top: 200px;
+}
+.gah{
+  font-size: 25px;
+  color: #EE82EE;
+  text-align: left;
+   padding-top: 162px;
+}
+.goo{
+  font-size: 25px;
+  color: #EE82EE;
+  text-align: left;
+}
+
+body {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 350px;
+  margin-left: 350px;
+  background-color: #E6E6FA;
+}
+
